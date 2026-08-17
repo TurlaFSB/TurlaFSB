@@ -12,18 +12,18 @@
 
   <br><br>
 
-  <!-- Massive Apple-Style Squircles (Simulated Glass Depth) -->
+  <!-- Massive Apple-Style 3D Glossy Icons (100% Reliable) -->
   <p align="center">
     <a href="https://www.linkedin.com/in/pranav-verma-7a6286334" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="85" alt="LinkedIn" />
+      <img src="https://img.icons8.com/fluency/256/linkedin.png" height="85" alt="LinkedIn" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://medium.com/@PranavVerma" target="_blank">
-      <img src="https://skillicons.dev/icons?i=medium&theme=dark" height="85" alt="Medium" />
+      <img src="https://img.icons8.com/fluency/256/medium-monogram.png" height="85" alt="Medium" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:ltprince0112@gmail.com" target="_blank">
-      <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="85" alt="Gmail" />
+      <img src="https://img.icons8.com/fluency/256/gmail-new.png" height="85" alt="Gmail" />
     </a>
   </p>
 
