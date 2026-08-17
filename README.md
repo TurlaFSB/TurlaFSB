@@ -1,6 +1,6 @@
 <h5 align="center"> </h5>
 
-
+LINK FOR MEDIUM: <a href="https://medium.com/@PranavVerma" target="_blank">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pranav-verma-7a6286334" target="_blank">
