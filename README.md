@@ -18,11 +18,11 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://medium.com/@PranavVerma" target="_blank">
-    <img src="https://cdn.simpleicons.org/medium/FFFFFF" height="81" alt="Medium" />
+    <img src="https://cdn.simpleicons.org/medium/FFFFFF" height="85" alt="Medium" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:ltprince0112@gmail.com" target="_blank">
-      <img src="https://img.icons8.com/fluency/256/gmail-new.png" height="85" alt="Gmail" />
+      <img src="https://img.icons8.com/fluency/256/gmail-new.png" height="80" alt="Gmail" />
     </a>
   </p>
 
