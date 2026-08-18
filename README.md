@@ -18,7 +18,17 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://medium.com/@PranavVerma" target="_blank">
-    <img src="https://cdn.simpleicons.org/medium/FFFFFF" height="85" alt="Medium" />
+      <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://cdn.simpleicons.org/medium/FFFFFF"
+        />
+        <img
+          src="https://cdn.simpleicons.org/medium/000000"
+          height="85"
+          alt="Medium"
+        />
+      </picture>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:ltprince0112@gmail.com" target="_blank">
